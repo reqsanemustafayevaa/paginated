@@ -1,0 +1,17 @@
+C:\Project\examprojectprc\examprojectpr.Business\bin\Debug\net6.0\examprojectpr.Business.deps.json
+C:\Project\examprojectprc\examprojectpr.Business\bin\Debug\net6.0\examprojectpr.Business.dll
+C:\Project\examprojectprc\examprojectpr.Business\bin\Debug\net6.0\examprojectpr.Business.pdb
+C:\Project\examprojectprc\examprojectpr.Business\bin\Debug\net6.0\examprojectpr.Core.dll
+C:\Project\examprojectprc\examprojectpr.Business\bin\Debug\net6.0\examprojectpr.Data.dll
+C:\Project\examprojectprc\examprojectpr.Business\bin\Debug\net6.0\examprojectpr.Data.pdb
+C:\Project\examprojectprc\examprojectpr.Business\bin\Debug\net6.0\examprojectpr.Core.pdb
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\examprojectpr.Business.csproj.AssemblyReference.cache
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\examprojectpr.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\examprojectpr.Business.AssemblyInfoInputs.cache
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\examprojectpr.Business.AssemblyInfo.cs
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\examprojectpr.Business.csproj.CoreCompileInputs.cache
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\examprojectpr.Business.csproj.CopyComplete
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\examprojectpr.Business.dll
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\refint\examprojectpr.Business.dll
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\examprojectpr.Business.pdb
+C:\Project\examprojectprc\examprojectpr.Business\obj\Debug\net6.0\ref\examprojectpr.Business.dll

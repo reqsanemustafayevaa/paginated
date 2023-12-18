@@ -1,0 +1,12 @@
+C:\Project\examprojectprc\examprojectpr.Core\bin\Debug\net6.0\examprojectpr.Core.deps.json
+C:\Project\examprojectprc\examprojectpr.Core\bin\Debug\net6.0\examprojectpr.Core.dll
+C:\Project\examprojectprc\examprojectpr.Core\bin\Debug\net6.0\examprojectpr.Core.pdb
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\examprojectpr.Core.csproj.AssemblyReference.cache
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\examprojectpr.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\examprojectpr.Core.AssemblyInfoInputs.cache
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\examprojectpr.Core.AssemblyInfo.cs
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\examprojectpr.Core.csproj.CoreCompileInputs.cache
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\examprojectpr.Core.dll
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\refint\examprojectpr.Core.dll
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\examprojectpr.Core.pdb
+C:\Project\examprojectprc\examprojectpr.Core\obj\Debug\net6.0\ref\examprojectpr.Core.dll

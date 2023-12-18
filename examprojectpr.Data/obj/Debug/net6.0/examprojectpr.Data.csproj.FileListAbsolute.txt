@@ -1,0 +1,17 @@
+C:\Project\examprojectprc\examprojectpr.Data\bin\Debug\net6.0\examprojectpr.Data.deps.json
+C:\Project\examprojectprc\examprojectpr.Data\bin\Debug\net6.0\examprojectpr.Data.dll
+C:\Project\examprojectprc\examprojectpr.Data\bin\Debug\net6.0\examprojectpr.Data.pdb
+C:\Project\examprojectprc\examprojectpr.Data\bin\Debug\net6.0\examprojectpr.Core.dll
+C:\Project\examprojectprc\examprojectpr.Data\bin\Debug\net6.0\examprojectpr.Core.pdb
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.csproj.AssemblyReference.cache
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.AssemblyInfoInputs.cache
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.AssemblyInfo.cs
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.csproj.CoreCompileInputs.cache
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.csproj.CopyComplete
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.dll
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\refint\examprojectpr.Data.dll
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.pdb
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\ref\examprojectpr.Data.dll
+C:\Project\examprojectprc\examprojectpr.Data\bin\Debug\net6.0\examprojectpr.Data.runtimeconfig.json
+C:\Project\examprojectprc\examprojectpr.Data\obj\Debug\net6.0\examprojectpr.Data.genruntimeconfig.cache

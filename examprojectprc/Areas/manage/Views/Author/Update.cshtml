@@ -1,0 +1,29 @@
+﻿@model Author
+
+
+<div class="container-fluid">
+    <h1 class="mx-3">Update Author</h1>
+    <div class="row justify-content-center flex-column align-items-center">
+        <form class="col-md-8" asp-action="update" asp-asp-controller="genre" method="post" enctype="multipart/form-data">
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label asp-for="FullName">Name</label>
+                    <input asp-for="FullName" class="form-control" placeholder="Name">
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+
+                </div>
+                <button type="submit" class="btn btn-primary">Update</button>
+            </div>
+
+
+
+
+
+
+
+
+
+
+        </form>
+    </div>
+</div>
